@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="http://iptvx.one/EPG"
 #EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://212.115.255.201/hls/1plus1.m3u8?pauselive=&utcstart=${start}&closefull=&reason=seek" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454058965289.png",1+1
 http://streamer-hls.fregat.net/hls/1plus1.m3u8
 #EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://212.115.255.204/hls/2plus2.m3u8?pauselive=&utcstart=${start}&closefull=&reason=seek" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1499675431717.png",2+2
