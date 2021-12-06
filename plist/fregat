@@ -73,7 +73,7 @@ http://streamer-hls.fregat.net/hls/plusplus.m3u8
 http://streamer-hls.fregat.net/hls/stb.m3u8
 #EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://212.115.254.3/hls/solnce.m3u8?pauselive=&utcstart=${start}&closefull=&reason=seek" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454323106933.png",Солнце
 http://streamer-hls.fregat.net/hls/solnce.m3u8
-#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://212.115.255.204/hls/tv1000.m3u8?pauselive=&utcstart=${start}&closefull=&reason=seek" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454061871964.png",ТВ1000
+#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://212.115.255.204/hls/tv1000.m3u8?pauselive=&utcstart=${start}&closefull=&reason=seek" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1454061871964.png",TV1000 CEE
 http://streamer-hls.fregat.net/hls/tv1000.m3u8
 #EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://212.115.255.204/hls/tet.m3u8?pauselive=&utcstart=${start}&closefull=&reason=seek" tvg-logo="http://212.115.255.109:80/images/c90x90/broadcastChannel1568887386808.png",ТЕТ
 http://streamer-hls.fregat.net/hls/tet.m3u8
